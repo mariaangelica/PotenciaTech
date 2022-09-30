@@ -1,2 +1,3 @@
-# PotenciaTech
-Repositório de estudos do Bootcamp Potência Tech
+# Bootcamp Potência Tech Java Begginers DIO
+
+Aprendendo Java! :heart:
