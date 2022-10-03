@@ -7,7 +7,7 @@ public class Conta {
     public void imprimirSaldo(){
         System.out.println(saldo); //disponível em toda classe
 
-        System.out.println(novoSaldo); //somente o método sacar conhece esta variavel
+        //System.out.println(novoSaldo); //somente o método sacar conhece esta variavel
     }
 
     public double calcularDividaExponencial(){
